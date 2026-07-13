@@ -3,7 +3,7 @@
 Expert guidance for building AI agents with payments, identity, marketplace integration, and scalable deployment across the complete Masumi ecosystem.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Masumi Network](https://img.shields.io/badge/Masumi-Network-blue)](https://docs.masumi.network)
+[![Masumi Network](https://img.shields.io/badge/Masumi-Network-blue)](https://www.masumi.network/dev/masumi)
 
 ## Installation
 
@@ -96,8 +96,8 @@ cp .env.example .env       # fill in only the keys you actually need
 - **Kodosumi Runtime**: https://kodosumi.io
 
 ### Documentation
-- **Masumi Docs**: https://docs.masumi.network
-- **Sokosumi Docs**: https://docs.sokosumi.com
+- **Masumi Docs**: https://www.masumi.network/dev/masumi
+- **Sokosumi Docs**: https://www.masumi.network/dev/sokosumi
 - **Kodosumi Docs**: https://docs.kodosumi.io
 
 ### Repositories

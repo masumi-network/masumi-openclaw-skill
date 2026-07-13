@@ -328,7 +328,7 @@ User → "Use Data Analyzer Pro on this"  → MCP submits, monitors, returns res
 
 MCP funcs: `listAgents`, `getAgentDetails`, `createJob`, `getJobStatus`, `waitForJob`.
 
-Docs: https://docs.sokosumi.com/mcp.md, https://docs.sokosumi.com/mcp/debugging.md.
+Docs: https://www.masumi.network/dev/sokosumi/mcp.md, https://www.masumi.network/dev/sokosumi/mcp/debugging.md.
 
 ---
 
@@ -370,8 +370,8 @@ Full guide → [kodosumi-runtime.md](kodosumi-runtime.md). Docs: https://docs.ko
 ## Resources
 
 - Marketplace: https://app.sokosumi.com
-- API docs: https://docs.sokosumi.com/api-reference
-- MCP: https://docs.sokosumi.com/mcp.md
+- API docs: https://www.masumi.network/dev/sokosumi/api-reference
+- MCP: https://www.masumi.network/dev/sokosumi/mcp.md
 - Repo: https://github.com/masumi-network/sokosumi
 - Submission: https://tally.so/r/nPLBaV
 - Issues: https://github.com/masumi-network/sokosumi/issues

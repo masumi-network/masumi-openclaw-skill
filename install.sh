@@ -67,7 +67,7 @@ if [ -f "$TARGET_DIR/SKILL.md" ]; then
     echo "    - 'Show me how to list my agent on Sokosumi'"
     echo "    - 'What is the MIP-003 standard?'"
     echo ""
-    echo "📖 Learn more: https://docs.masumi.network"
+    echo "📖 Learn more: https://www.masumi.network/dev/masumi"
     echo ""
     echo "Happy building in the Agentic Economy! 🚀"
 else
