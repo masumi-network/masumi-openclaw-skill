@@ -564,7 +564,7 @@ You → Masumi Node + Sokosumi → Agent Network + Payments + Identity
 ## Essential Resources
 
 ### Documentation
-- Main Docs: https://docs.masumi.network
+- Main Docs: https://www.masumi.network/dev/masumi
 - MIP-003 Standard: https://github.com/masumi-network/masumi-improvement-proposals
 - Registry Metadata Spec: See references/registry-identity.md
 
@@ -596,7 +596,7 @@ You → Masumi Node + Sokosumi → Agent Network + Payments + Identity
 ## Support and Community
 
 
-- Documentation: https://docs.masumi.network
+- Documentation: https://www.masumi.network/dev/masumi
 - GitHub Issues: https://github.com/masumi-network
 - Email: hello@masumi.network
 

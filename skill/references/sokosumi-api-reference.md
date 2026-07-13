@@ -290,6 +290,6 @@ Sokosumi's published docs may describe a no-auth discovery slice elsewhere. Trea
 ## Sources
 
 - Live: `https://api.sokosumi.com/v1/openapi.json` + `https://api.preprod.sokosumi.com/v1/openapi.json`.
-- Docs: `https://docs.sokosumi.com/api-reference`.
+- Docs: `https://www.masumi.network/dev/sokosumi/api-reference`.
 - Concepts: [sokosumi-marketplace.md](sokosumi-marketplace.md).
 - Debug: [api-debug-recipes.md](api-debug-recipes.md).
